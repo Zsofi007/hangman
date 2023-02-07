@@ -1,0 +1,27 @@
+--- !ruby/object:Game
+chosen_word:
+- d
+- e
+- s
+- e
+- r
+- v
+- e
+guess:
+- _
+- e
+- s
+- e
+- r
+- v
+- e
+lives: 3
+guesses:
+- a
+- e
+- t
+- r
+- s
+- v
+- p
+- c
